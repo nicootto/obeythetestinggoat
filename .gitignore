@@ -1,2 +1,4 @@
 .idea/
 venv/
+geckodriver.log
+db.sqlite3
